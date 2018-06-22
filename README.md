@@ -14,5 +14,5 @@ bower install --save bootstrap@3.3.7
 
 ## Development server
 
-Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
-
+Before running,  please run `ng build --aot` to create dist for `client`
+Run `npm start` for a dev server. Navigate to `http://localhost:3000/`.
